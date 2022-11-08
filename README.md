@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**nicholasndolo/nicholasndolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, Nicholas Ndolo
+#### Software Development
+![Software Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Here are some ideas to get you started:
+I'm Nicholas from Kenya, a  software developer who has a passion for technology in developing innovative solutions that solve real world problems. I enjoy solving problems and learning new languages and frameworks like react and rails.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: REACT / JS / HTML / CSS/RUBY/RAILS/PYTHON
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
