@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, Nicholas Ndolo
 #### Software Development
 ![Software Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
