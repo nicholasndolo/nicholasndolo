@@ -6,7 +6,14 @@ I'm Nicholas from Kenya, a  software developer who has a passion for technology 
 
 Skills: REACT / JS / HTML / CSS/RUBY/RAILS/PYTHON
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Team Project 
+- 🌱 I’m currently learning React Native 
+- 😄 Pronouns: He/His 
+- ⚡ Fun fact: Man U fans "hate" me😆 
+
+
+
+
 
 
 
