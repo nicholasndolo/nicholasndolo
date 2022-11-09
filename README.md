@@ -1,6 +1,6 @@
 ### Hi there 👋, Nicholas Ndolo
 #### Software Development
-![Software Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3GF25CJVnTTVTm5Hb2As2lvADFQbxT6nm1A&usqp=CAU)
+![Software Development](https://miro.medium.com/max/1400/0*6HOvND4nEiUSL8wB)
 
 I'm Nicholas from Kenya, a  software developer who has a passion for technology in developing innovative solutions that solve real world problems. I enjoy solving problems and learning new languages and frameworks like react and rails.
 
