@@ -1,6 +1,6 @@
 ### Hi there 👋, Nicholas Ndolo
 #### Software Development
-![Software Development](https://cdn.pixabay.com/photo/2016/11/18/00/32/programming-1833058_960_720.png)
+![Software Development](https://cdn.pixabay.com/photo/2015/08/27/09/22/banner-909710__340.jpg)
 
 I'm Nicholas from Kenya, a  software developer who has a passion for technology in developing innovative solutions that solve real world problems. I enjoy solving problems and learning new languages and frameworks like react and rails.
 
