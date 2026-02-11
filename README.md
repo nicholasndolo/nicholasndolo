@@ -5,7 +5,7 @@
 <!--I am a software developer specializing in app development with a speciality in web development . I am experienced in languages such as Javascript, python, Ruby and Typescript. Furthermore, I love to explore the wonderful world of user interface and create mockup designs using Figma while understanding the user experience. While I am not coding, I am mentoring young people in the world of tech and ensuring they incorporate the humane side in the tech industry. Welcome to my world 🌏🗺⛰ -->
 I'm a passionate software developer with a love for creating clean and efficient code. My toolbox includes:
 
-- **Languages:** JavaScript, Python, Ruby
+- **Languages:** JavaScript,Java, Python, Ruby
 - **Frontend:** React.js, Next.js
 - **Backend:** Ruby on Rails
 - **Type Safety:** TypeScript
